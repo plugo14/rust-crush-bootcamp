@@ -1,7 +1,8 @@
 # 🦀 Rust Crush Bootcamp
 
-<img width="800" height="800" alt="image" src="https://github.com/user-attachments/assets/e282935c-78c1-4b9c-a7ef-87568acf7151" />
-
+<a href="https://luma.com/g4dcdzqo?tk=WewBfO">
+  <img width="1935" height="639" alt="Register for the Rust Bootcamp" src="https://github.com/user-attachments/assets/b5b105f5-118d-4fb1-beb6-6e03e2706361" />
+</a>
 
 Welcome to the official repository for the **Rust Crush Bootcamp**! 
 
@@ -65,6 +66,8 @@ The agenda will be:
 
 ---
 
+You can register HERE: https://luma.com/g4dcdzqo?tk=WewBfO
+
 ## 🔴 Important Note on Privacy and Recording
 
 The event will be recorded, and some parts may be reused for content on my social channels (e.g., YouTube, X, etc.) or even as part of some paid products.
@@ -77,3 +80,8 @@ I understand this may be a concern for some. If you prefer not to appear, there 
 * Change your username before joining the call.
 
 Your active participation requires neither your face nor your real name.
+
+<a href="https://luma.com/g4dcdzqo?tk=WewBfO">
+  <img width="1935" height="639" alt="Register for the Rust Bootcamp" src="https://github.com/user-attachments/assets/b5b105f5-118d-4fb1-beb6-6e03e2706361" />
+</a>
+
