@@ -6,7 +6,9 @@
 
 Welcome to the official repository for the **Rust Crush Bootcamp**! 
 
-Have you always heard about Rust but don't know where to start? This one-hour intensive bootcamp is designed for you. We'll start from the absolute basics to understand why Rust is so loved and powerful, then write our first code together. We will cover as many Rust fundamentals as possible in this packed 1-hour!
+Have you been hearing about Rust everywhere, but don’t know where to start?
+
+This one-hour intensive bootcamp is designed for you. We'll start from the absolute basics to understand why Rust is so loved and powerful, then write our first code together. We will cover as many Rust fundamentals as possible in this packed 1-hour!
 
 This is not a public event: registration is required to receive the link and participate. It's the perfect opportunity to take your first steps in a dedicated, distraction-free environment.
 
