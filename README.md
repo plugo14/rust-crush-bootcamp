@@ -1,6 +1,8 @@
 # 🦀 Rust Crush Bootcamp
 
-<a href="https://luma.com/g4dcdzqo?tk=WewBfO">
+Watch the recording here: https://youtu.be/tgJ8d9yQtKY
+
+<a href="https://youtu.be/tgJ8d9yQtKY">
   <img width="1935" height="639" alt="Register for the Rust Bootcamp" src="https://github.com/user-attachments/assets/b5b105f5-118d-4fb1-beb6-6e03e2706361" />
 </a>
 
@@ -68,7 +70,7 @@ The agenda will be:
 
 ---
 
-You can register HERE: https://luma.com/g4dcdzqo?tk=WewBfO
+You can watch the recording here: https://youtu.be/tgJ8d9yQtKY
 
 ## 🔴 Important Note on Privacy and Recording
 
@@ -83,7 +85,7 @@ I understand this may be a concern for some. If you prefer not to appear, there 
 
 Your active participation requires neither your face nor your real name.
 
-<a href="https://luma.com/g4dcdzqo?tk=WewBfO">
+<a href="https://youtu.be/tgJ8d9yQtKY">
   <img width="1935" height="639" alt="Register for the Rust Bootcamp" src="https://github.com/user-attachments/assets/b5b105f5-118d-4fb1-beb6-6e03e2706361" />
 </a>
 
