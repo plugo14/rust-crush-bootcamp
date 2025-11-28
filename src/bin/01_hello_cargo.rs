@@ -10,10 +10,10 @@
 
 fn main() {
     //this is a one line comment
-    println!("Hello, world from Example 1!");
+    println!("This is Hello, world from Example 1!");
 
     /* This is a 
        multi-line comment */
     /// This is a documentation comment
-    println!("Hello, world from Example 1 again!");
+    println!("This is Hello, world from Example 1 again!");
 }
