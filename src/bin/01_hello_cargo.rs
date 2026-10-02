@@ -14,6 +14,6 @@ fn main() {
 
     /* This is a 
        multi-line comment */
-    /// This is a documentation comment
+    // This is a documentation comment
     println!("This is Hello, world from Example 1 again!");
 }
